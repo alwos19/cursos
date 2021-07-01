@@ -14,3 +14,12 @@ function ageInDays() {
 function reset() {
     document.getElementById('ageInDays').remove();
 }
+
+//challenge 2: Cat Generate
+ function generateCat() {
+     let image = document.createElement('img');
+     let div = document.getElementById('flex-cat-gen');
+     image.src = "./static/images/tenor.gif";
+     div.appendChild(image);
+
+ }
