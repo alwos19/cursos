@@ -1,0 +1,46 @@
+.fondo {
+    background-color: lightblue;
+}
+
+.letra1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+
+/* Colores */
+
+.color-tomato {
+    background-color: tomato
+}
+
+.color-orange {
+    background-color: orange;
+}
+
+.color-blue {
+    background-color: rgb(0, 162, 255);
+}
+
+.color-green {
+    background-color: green;
+}
+
+
+/* margenes */
+
+.margen-1 {
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 80px;
+    background-color: rgb(105, 199, 105);
+}
+
+.menu-perfil-usuario {
+    /* list-style-type: none;
+    margin: 0;
+    padding: 0; */
+    display: inline;
+}
