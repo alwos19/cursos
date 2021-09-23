@@ -1,12 +1,4 @@
-// function sumar (num1, num2) {
-//     let res = num1 + num2;
-//     document.write(res);
-//     document.write("<br>")
 
-// }
-
-// sumar(40,40);
-// sumar(30,70);
 
 let free = false;
 
