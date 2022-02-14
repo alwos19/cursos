@@ -2,7 +2,6 @@ let salario = prompt ('Ingrese salario ');
 
 if (parseInt (salario) < 1000) {
     let nSalario = parseInt (salario) * 0.1;
-    console.log(nSalario)
     salario = parseInt (nSalario) + parseInt (salario);
     console.log(salario);
     
